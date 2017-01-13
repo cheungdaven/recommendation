@@ -8,6 +8,8 @@ Author: Shuai Zhang
 Website: http://shuaizhang.tech
 E-mail: cheungshuai@outlook.com
 Feel free to contact me if you have any problem.
+Please refer to this paper: Factorization Meets the Neighborhood: a Multifaceted Collaborative Filtering Model
+http://faculty.cse.tamu.edu/huangrh/papers_course/matrix_factorization.pdf
 '''
 
 numFactors =  20
